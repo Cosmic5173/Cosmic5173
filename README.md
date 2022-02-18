@@ -4,6 +4,21 @@ Hello there! My name is Armen Deroian (He/Him), I am a student in this ever-grow
 It's very enjoyable for me to be able to turn on my PC and be able to work on *anything*. Being able to create almost anything I put my mind to gives me a sense of purpose and pride. I enjoy every last minute of it, and look forward to what I learn in the future.
  
 ***
+
+<a href="https://discord.com/users/870867340579995678"> 
+    <img align=right alt="Discord Profile" src="https://lanyard.cnrad.dev/api/870867340579995678?idleMessage=Probably%20away%20doing%20something%20important.&hideDiscrim=true&hideTimestamp=true">
+</a>
+
+## Links
+
+[Discord](https://discord.com/users/870867340579995678) \
+[Community Server](https://discord.cosmic5173.com) \
+[Website](https://www.cosmic5173.com) \
+[Email](mailto:contact@cosmic5173.com) \
+[YouTube](https://www.youtube.com/channel/UCo0_SuIilrU9yCkxXfvyx2A) \
+[Twitch](https://www.twitch.tv/cosmic5173)
+
+***
  
 ## Current Projects
  
@@ -43,6 +58,16 @@ Legend Network was the last Minecraft Network that I worked on, and plan to work
 <img src="assets/php-logo.png" alt="PHP Logo" height=35 width=40><img src="assets/js-logo.png" alt="JS Logo" height=40><img src="assets/njs-logo.png" alt="JS Logo" height=40><img src="assets/json-logo.png" alt="JSON Logo" height=40><img src="assets/sql-logo.png" alt="SQL Logo" height=40><img src="assets/css-html-logo.png" alt="JS Logo" height=40>
  
 ***
-[![Armen Deroian's Github Stats](https://github-readme-stats.vercel.app/api?username=Cosmic5173&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Armen Deroian's Github Stats](https://github-readme-stats.vercel.app/api?username=Cosmic5173&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic5173&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic5173&layout=compact&theme=radical)]
+
+
+***
+
+## Activity
+
+[![Spotify](https://novatorem-cosmic5173.vercel.app/api/spotify)](https://open.spotify.com/user/jis1289wp9pkyi3dzfog569o9)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Cosmic5173.Cosmic5173)
+![Followers](https://img.shields.io/github/followers/Cosmic5173?label=Followers&style=social)
