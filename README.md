@@ -33,6 +33,14 @@ Gildenkrieg is a new 3D Warfare Game created by myself for Nightraid Studios. It
  
 [Gildenkrieg](https://gildenkrieg.xyz) \
 [Discord](https://discord.gildenkrieg.xyz)
+
+### PocketMine-MP Libraries
+PocketMine-MP Libraries is a small project of mine where in my free time, I create useful libraries for PocketMine-MP Plugins. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PocketMine-MP-Libraries) to see what libraries may be useful to you.
+
+### CosmicBot
+Cosmic Bot is a Discord bot written in Java, using [JDA](https://github.com/DV8FromTheWorld/JDA). It is the biggest Discord bot I have ever worked on, and will be a base for some of my future, more public bots. The purpose for this bot is for practice and my community server.
+
+[GitHub Project](https://github.com/Cosmic5173/CosmicBot)
  
 ***
  
