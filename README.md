@@ -28,6 +28,12 @@ Gildenkrieg is a new 3D Warfare Game created by myself for Nightraid Studios. It
 [Gildenkrieg](https://gildenkrieg.xyz) \
 [Discord](https://discord.gildenkrieg.xyz)
 
+### Nightraid Studios
+Nightraid Studios is a software company dedicated to creating new and innovative software for the world. It consists of many different areas of the field including Game Development, Restful APIs, Discord Bots, and more. Nightraid Studios was founded back in 2021 by [Jamie Duddleston](https://github.com/GuildedThorn).
+
+[Nighraid Studios](https://nighraid.studio) \
+[Discord](https://discord.nightraid.studio)
+
 ### MC Olympics
 MC Olympics is a new Minecraft Java server that I have been working on. It was founded and is owned by NightmareDG. I never thought I was going to get back into the Minecraft community, but here I am. I plan to work on numerous custom gamemodes as well as *possibly* add support for Bedrock. I am very excited to be working here, NightmareDG is a good friend of mine, I am glad I can be working with him again after TX Servers.
 
@@ -54,9 +60,6 @@ TX Servers was probably the most meaningful Minecraft project I worked on. This 
  
 ### Legend Network
 Legend Network was the last Minecraft Network that I worked on (or so I thought), and plan to work on. It was founded by ItzFighters, and owned by Optical, Magix, and myself.
-
-### Nightraid Studios
-Nightraid Studios is a software company dedicated to creating new and innovative software for the world. It consists of many different areas of the field including Game Development, Restful APIs, Discord Bots, and more. Nightraid Studios was founded back in 2021 by [Jamie Duddleston](https://github.com/GuildedThorn).
  
 ***
  
