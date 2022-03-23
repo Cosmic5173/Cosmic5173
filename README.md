@@ -28,14 +28,14 @@ Gildenkrieg is a new 3D Warfare Game created by myself for Nightraid Studios. It
 [Gildenkrieg](https://gildenkrieg.xyz) \
 [Discord](https://discord.gildenkrieg.xyz)
 
+### Warped Network
+As of mid 2022, Warped Network has been revived from its former glory in 2019-2020. I have decided to work on a new Minecraft server with a few of my good friends. We plan for this server to be a cluster of fun gamemodes for people to enjoy.
+
 ### Nightraid Studios
 Nightraid Studios is a software company dedicated to creating new and innovative software for the world. It consists of many different areas of the field including Game Development, Restful APIs, Discord Bots, and more. Nightraid Studios was founded back in 2021 by [Jamie Duddleston](https://github.com/GuildedThorn).
 
 [Nighraid Studios](https://nighraid.studio) \
 [Discord](https://discord.nightraid.studio)
-
-### MC Olympics
-MC Olympics is a new Minecraft Java server that I have been working on. It was founded and is owned by NightmareDG. I never thought I was going to get back into the Minecraft community, but here I am. I plan to work on numerous custom gamemodes as well as *possibly* add support for Bedrock. I am very excited to be working here, NightmareDG is a good friend of mine, I am glad I can be working with him again after TX Servers.
 
 ### PocketMine-MP Libraries
 PocketMine-MP Libraries is a small project of mine where in my free time, I create useful libraries for PocketMine-MP Plugins. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PocketMine-MP-Libraries) to see what libraries may be useful to you.
@@ -52,7 +52,7 @@ Cosmic Bot is a Discord bot written in Java, using [JDA](https://github.com/DV8F
 ### Imperial Network
 Imperial Network was my first-ever attempt at a Minecraft Network. It was founded and owned by my good friend [Zofu](https://www.youtube.com/channel/UCv1qaKC1bYd3A3O9r4KIB_g), and myself. This was my first time actually creating a public programming project that people could actually use. It got me to learn [PHP](https://php.net) and [PocketMine-MP](https://pmmp.io).
  
-### Warped Network / Wyvern Factions
+### Warped Network / Wyvern Factions (2019-2020)
 Warped Network, also known as Wyvern Factions was my second, and long term Minecraft Network. This was my most (kinda) successful Minecraft Network. It was founded and owned by [EPT](https://github.com/EPT8TPE), Atlantis, and myself.
  
 ### TX Servers
@@ -71,7 +71,7 @@ Legend Network was the last Minecraft Network that I worked on (or so I thought)
 ***
 ![Armen Deroian's Github Stats](https://github-readme-stats.vercel.app/api?username=Cosmic5173&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic5173&layout=compact&theme=radical)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic5173&layout=compact&theme=radical)
 
 
 ***
