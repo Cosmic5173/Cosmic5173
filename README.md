@@ -1,14 +1,13 @@
-# Cosmic5173
-Hello there! My name is Armen Deroian (He/Him), I am a student in this ever-growing world. I like to call myself the 'beginner-developer', I have been actually working around programming and computers for about 2 years (as of 2022). Computers and software engineering have always intrigued me, ever since I started random block coding back in Middle School. I say "'actually' working" because although I have been around computers and beginner coding (block code, hour of code, etc.) for many years.
- 
-It's very enjoyable for me to be able to turn on my PC and be able to work on *anything*. Being able to create almost anything I put my mind to gives me a sense of purpose and pride. I enjoy every last minute of it, and look forward to what I learn in the future.
- 
+# Armen Deroian (Cosmic5173)
+Hello there! My name is Armen Deroian (He/Him), I am a young developer who is learning everything he can about Computer Science. (My 'online' name is Cosmic5173) I plan to major in this field in college. As of now, I enjoy teaching myself using various online resources, and working with my friends who also are learning. The 2 major areas that I am working with are game development ([Unity](https://unity.com/)) and backend development.
+
+Looking into the future, I plan to go to college, continue learning as much as I can about this field, and get a good job in it. I also plan to teach myself web development front-and and back-end, work on Rest APIs, and networking / system management (Linux, docker, etc.).
+
 ***
 
 <a href="https://discord.com/users/870867340579995678"> 
     <img align=right alt="Discord Profile" src="https://lanyard.cnrad.dev/api/870867340579995678?idleMessage=Probably%20away%20doing%20something%20important.&hideDiscrim=true&hideTimestamp=true">
 </a>
-
 ## Links
 
 [Discord](https://discord.com/users/870867340579995678) \
