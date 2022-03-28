@@ -8,6 +8,7 @@ Looking into the future, I plan to go to college, continue learning as much as I
 <a href="https://discord.com/users/870867340579995678"> 
     <img align=right alt="Discord Profile" src="https://lanyard.cnrad.dev/api/870867340579995678?idleMessage=Probably%20away%20doing%20something%20important.&hideDiscrim=true&hideTimestamp=true">
 </a>
+
 ## Links
 
 [Discord](https://discord.com/users/870867340579995678) \
@@ -29,12 +30,6 @@ Gildenkrieg is a new 3D Warfare Game created by myself for Nightraid Studios. It
 
 ### Warped Network
 As of mid 2022, Warped Network has been revived from its former glory in 2019-2020. I have decided to work on a new Minecraft server with a few of my good friends. We plan for this server to be a cluster of fun gamemodes for people to enjoy.
-
-### Nightraid Studios
-Nightraid Studios is a software company dedicated to creating new and innovative software for the world. It consists of many different areas of the field including Game Development, Restful APIs, Discord Bots, and more. Nightraid Studios was founded back in 2021 by [Jamie Duddleston](https://github.com/GuildedThorn).
-
-[Nighraid Studios](https://nighraid.studio) \
-[Discord](https://discord.nightraid.studio)
 
 ### PocketMine-MP Libraries
 PocketMine-MP Libraries is a small project of mine where in my free time, I create useful libraries for PocketMine-MP Plugins. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PocketMine-MP-Libraries) to see what libraries may be useful to you.
@@ -59,6 +54,9 @@ TX Servers was probably the most meaningful Minecraft project I worked on. This 
  
 ### Legend Network
 Legend Network was the last Minecraft Network that I worked on (or so I thought), and plan to work on. It was founded by ItzFighters, and owned by Optical, Magix, and myself.
+
+### Nightraid Studios
+Nightraid Studios is a software company dedicated to creating new and innovative software for the world. It consists of many different areas of the field including Game Development, Restful APIs, Discord Bots, and more. Nightraid Studios was founded back in 2021 by Jamie Duddleston.
  
 ***
  
