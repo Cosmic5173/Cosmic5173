@@ -31,8 +31,8 @@ Gildenkrieg is a new 3D Warfare Game created by myself for Nightraid Studios. It
 ### Warped Network
 As of mid 2022, Warped Network has been revived from its former glory in 2019-2020. I have decided to work on a new Minecraft server with a few of my good friends. We plan for this server to be a cluster of fun gamemodes for people to enjoy.
 
-### PocketMine-MP Libraries
-PocketMine-MP Libraries is a small project of mine where in my free time, I create useful libraries for PocketMine-MP Plugins. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PocketMine-MP-Libraries) to see what libraries may be useful to you.
+### PM Gadgets
+PM Gadgets is a small project of mine where in my free time, I create useful plugins libraries for PocketMine-MP. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PM-Gadgets) to see what projects may be useful to you.
 
 ### CosmicBot
 Cosmic Bot is a Discord bot written in Java, using [JDA](https://github.com/DV8FromTheWorld/JDA). It is the biggest Discord bot I have ever worked on, and will be a base for some of my future, more public bots. The purpose for this bot is for practice and my community server.
