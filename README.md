@@ -21,15 +21,17 @@ Looking into the future, I plan to go to college, continue learning as much as I
 ***
  
 ## Current Projects
- 
+
+### SkyWarped Studios
+Started on the 10th of April 2022, SkyWarped Studios is a game development company dedicated to creating fun and intriguing games for all to play. Our goal is to continue updating and producing new state-of-the-art games that push the boundaries of what is thought to be impossible. Games, that can range from small, simple, 2D games to complex, 3D, multiplayer, world games.
+
 ### Gildenkrieg
-Gildenkrieg is a new 3D Warfare Game created by myself for Nightraid Studios. It is a huge project, aiming to create a cross platform game for all to enjoy. The main premise is for players to team up, create factions/empires, and declare war on other factions.
- 
-[Gildenkrieg](https://gildenkrieg.xyz) \
+Gildenkrieg is a new 3D Warfare Game created by myself for SkyWarped Studios. It is a huge project, aiming to create a cross-platform game for all to enjoy. The main premise is for players to team up, create factions/empires, and declare war on other factions.
+
 [Discord](https://discord.gildenkrieg.xyz)
 
-### Warped Network
-As of mid 2022, Warped Network has been revived from its former glory in 2019-2020. I have decided to work on a new Minecraft server with a few of my good friends. We plan for this server to be a cluster of fun gamemodes for people to enjoy.
+### SkyWarped MC
+SkyWarped MC is a Minecraft network focused on the Bedrock platform. It is a project based under SkyWarped Studios. We plan to provide daily players with a unique Minecraft experience that requires dedication, practice, strategy and teamwork. We will never become pay-to-win, and will always ensure that our community is always kind, welcoming, and friendly.
 
 ### PM Gadgets
 PM Gadgets is a small project of mine where in my free time, I create useful plugins libraries for PocketMine-MP. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PM-Gadgets) to see what projects may be useful to you.
@@ -50,7 +52,7 @@ Imperial Network was my first-ever attempt at a Minecraft Network. It was founde
 Warped Network, also known as Wyvern Factions was my second, and long term Minecraft Network. This was my most (kinda) successful Minecraft Network. It was founded and owned by [EPT](https://github.com/EPT8TPE), Atlantis, and myself.
  
 ### TX Servers
-TX Servers was probably the most meaningful Minecraft project I worked on. This was arguably the most wholesome, welcoming, friendly, and respectful community I was ever part of on Minecraft. I joined this server around June 2020, and was part of it till its end-of-life in November 2020. This project was founded by NightmareDG and owned by NightmareDG, PoisonouseSquash, Sassy, and CouchPez.
+TX Servers was probably the most meaningful Minecraft project I worked on. This was arguably the most wholesome, welcoming, friendly, and respectful community I was ever part of on Minecraft. I joined this server around June 2020, and was part of it till its end-of-life in November 2020. This project was founded by NightmareDG and owned by NightmareDG, PoisonousSquash, Sassy, and CouchPez.
  
 ### Legend Network
 Legend Network was the last Minecraft Network that I worked on (or so I thought), and plan to work on. It was founded by ItzFighters, and owned by Optical, Magix, and myself.
