@@ -22,6 +22,13 @@ Looking into the future, I plan to go to college, continue learning as much as I
  
 ## Current Projects
 
+### SkyWing
+SkyWing is an upcoming Minecraft server software written in C# for both Bedrock and Java editions. The goal is to provide full vanilla capabilities plus the ability to add plugins over top of vanilla gameplay. We are always looking for contributions so feel free to drop a pull request!
+
+[Discord](https://discord.gg/4hs3QnMq) \
+[GitHub](https://github.com/sw-mc) \
+[Project Repo](https://github.com/sw-mc/SkyWing)
+
 ### SkyWarped Studios
 Started on the 10th of April 2022, SkyWarped Studios is a game development company dedicated to creating fun and intriguing games for all to play. Our goal is to continue updating and producing new state-of-the-art games that push the boundaries of what is thought to be impossible. Games, that can range from small, simple, 2D games to complex, 3D, multiplayer, world games.
 
@@ -32,14 +39,6 @@ Gildenkrieg is a new 3D Warfare Game created by myself for SkyWarped Studios. It
 
 ### SkyWarped MC
 SkyWarped MC is a Minecraft network focused on the Bedrock platform. It is a project based under SkyWarped Studios. We plan to provide daily players with a unique Minecraft experience that requires dedication, practice, strategy and teamwork. We will never become pay-to-win, and will always ensure that our community is always kind, welcoming, and friendly.
-
-### PM Gadgets
-PM Gadgets is a small project of mine where in my free time, I create useful plugins libraries for PocketMine-MP. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``. You can go check out our [GitHub](https://github.com/PM-Gadgets) to see what projects may be useful to you.
-
-### CosmicBot
-Cosmic Bot is a Discord bot written in Java, using [JDA](https://github.com/DV8FromTheWorld/JDA). It is the biggest Discord bot I have ever worked on, and will be a base for some of my future, more public bots. The purpose for this bot is for practice and my community server.
-
-[GitHub Project](https://github.com/Cosmic5173/CosmicBot)
  
 ***
  
@@ -59,6 +58,12 @@ Legend Network was the last Minecraft Network that I worked on (or so I thought)
 
 ### Nightraid Studios
 Nightraid Studios is a software company dedicated to creating new and innovative software for the world. It consists of many different areas of the field including Game Development, Restful APIs, Discord Bots, and more. Nightraid Studios was founded back in 2021 by Jamie Duddleston.
+
+### PM Gadgets
+PM Gadgets is a small project of mine where in my free time, I create useful plugins libraries for PocketMine-MP. [PocketMine-MP](https://pmmp.io) is a very popular server software for ``Minecraft: Bedrock Edition``.
+
+### CosmicBot
+Cosmic Bot is a Discord bot written in Java, using [JDA](https://github.com/DV8FromTheWorld/JDA). It is the biggest Discord bot I have ever worked on, and will be a base for some of my future, more public bots. The purpose for this bot is for practice and my community server.
  
 ***
  
